@@ -1,3 +1,11 @@
+"""
+Author: ELFILALI Taoufiq
+
+Email: elfilali.taoufiq@gmail.com
+
+2021
+"""
+
 import streamlit as st
 import pickle
 import numpy as np
